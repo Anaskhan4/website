@@ -1,0 +1,9 @@
+div#hd{
+	text-shadow:none;
+	font-family:Impact;
+	padding:50px;
+	font-style:italic;
+	color:grey;
+	text-align:center;
+	background-color:#f1f1f1;
+}
